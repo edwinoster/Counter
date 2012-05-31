@@ -1,4 +1,4 @@
-def Count(frmo, to)
+def Count(from, to)
 	while from <= to
 		puts from
 		from += 1
